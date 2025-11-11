@@ -1,0 +1,39 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#asd": {
+            "scaleInDock": 0.25
+        },
+        "#floor": {
+            "scaleInDock": 1
+        },
+        "#test": {
+            "scaleInDock": 0.25
+        }
+    },
+    "last.imagePath": "C:/Users/markm/Downloads/5 - level graphics/graphics/tilemap",
+    "map.fixedSize": false,
+    "map.height": 31,
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "openFiles": [
+    ],
+    "project": "",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
